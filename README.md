@@ -5,7 +5,8 @@ then populate a modal popup box with the proper `iframe` embed code and
 autoplay it.
 
 It automatically sizes the popup to be 75% of the width of the page, and
-places it 10% from the top of the page (unless it's
+places it 10% from the top of the page (unless it's less than the mobile
+breakpoint, then it's full width).
 
 ## How to Use This Component
 
